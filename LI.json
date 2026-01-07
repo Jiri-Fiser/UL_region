@@ -1,0 +1,17 @@
+{
+  "name": "Litvínov",
+  "latitude": 50.6,
+  "longitude": 13.6,
+  "population": 22387,
+  "population_orp": 35669,
+
+  "time_distance": {
+    "rail": [{"TP": 21}, {"MO": 24}, {"DV": 69}, {"LN": 52}, {"UL": 43}],
+    "road": [{"TP": 25}, {"MO": 16}, {"BL": 20}]
+  },
+
+  "km_distance": {
+    "rail": [{"TP": 18}, {"MO": 11}, {"DV": 58}, {"LN": 39}, {"UL": 35}],
+    "road": [{"TP": 20}, {"MO": 13}, {"BL": 17}]
+  }
+}
