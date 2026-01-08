@@ -1,0 +1,17 @@
+{
+  "name": "Decin",
+  "latitude": 50.7736,
+  "longitude": 14.1961,
+  "population": 46376,
+  "population_orp": 78000,
+
+  "time_distance": {
+    "rail": [{"UL": 16}, {"RM": 73}, {"VR": 77}],
+    "road": [{"UL": 27}, {"RM": 47}, {"VR": 47}]
+  },
+
+  "km_distance": {
+    "road": [{"UL": 26}, {"RM": 42}, {"VR": 44}],
+    "rail": [{"UL": 23}, {"RM": 61}, {"VR": 61}]
+  }
+}
