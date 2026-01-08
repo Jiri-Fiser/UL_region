@@ -1,0 +1,15 @@
+{
+  "name": "Bílina",
+  "latitude": 50.5485,
+  "longitude": 13.7735,
+  "population": 14497,
+  "population_orp": 19487,
+  "time_distance": {
+    "rail": [{"TP": 11}, {"MO": 13}, {"UL": 30}, {"CH": 31}, {"KD": 38}, {"DV": 46}],
+    "road": [{"TP": 14}, {"MO": 14}, {"LN": 28}]
+  },
+  "km_distance": {
+    "road": [{"TP": 14}, {"MO": 15}, {"LN": 25}],
+    "rail": [{"TP": 12}, {"MO": 13}, {"UL": 27}, {"CH": 33}, {"KD": 42}, {"DV": 50}]
+  }
+}
