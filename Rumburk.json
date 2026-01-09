@@ -1,0 +1,19 @@
+{
+  "name": "Rumburk",
+  "latitude": 50,
+  "longitude": 14,
+  "population": 10861,
+  "population_orp": 32120,
+
+  "time_distance": {
+    "rail": [{"DV":  74}],
+    "road": [{"DV": 48}, {"VR": 13}, {"LT":  74}, {"RD":  87}]
+    "bus" : [{"VR": 23}
+  },
+
+  "km_distance": {
+    "road": [{"VR": 8.3}, {"DV":  40.6}{"LT":  72.8}, {"RD":  86.9}]],
+    "rail": [{"DV":  61}]
+    "bus" : [{"VR": 10}
+  }
+}
