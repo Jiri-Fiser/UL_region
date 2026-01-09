@@ -1,0 +1,37 @@
+{
+  "name": "Lovosice",
+  "latitude": 50.515,
+  "longitude": 14.051,
+  "population": 8800,
+  "population_orp": 27546,
+
+  "time_distance": {
+    "rail": [
+      {"UL": 14}, 
+      {"LT": 6}, 
+      {"RD": 13}, 
+      {"LN": 42}, 
+      {"MO": 48}
+    ],
+    "road": [
+      {"UL": 22}, 
+      {"LT": 10}, 
+      {"RD": 18}
+    ]
+  },
+
+  "km_distance": {
+    "road": [
+      {"UL": 21.8}, 
+      {"LT": 8.1}, 
+      {"RD": 19.5}
+    ],
+    "rail": [
+      {"UL": 22}, 
+      {"LT": 5}, 
+      {"RD": 17}, 
+      {"LN": 34}, 
+      {"MO": 43}
+    ]
+  }
+}
